@@ -1,1 +1,1 @@
-# Return-Analysis-of-FMCG-stocks
+Analyzed long term and short term returns of three FMCG stocks namely, Britannia, Jubilant and Nestle. Implemented Markov Chain model to predict stock volatility and identified the best performing stock by comparing long term returns with expected returns. 
